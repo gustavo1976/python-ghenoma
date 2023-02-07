@@ -1,0 +1,60 @@
+body { margin: 0; padding: 0; }
+#map { position: absolute; top: 0; bottom: 0; width: 100%; }
+#menu-botones{
+    background-color: aliceblue;
+    position:absolute;
+    top: 10px;
+    left:10px;
+    padding:10px;
+    z-index:99;
+    border-radius: 10px;
+    width:200px;
+}
+.vc-toggle-container div{
+    line-height: 25px;
+    display:flex;
+}
+
+.vc-toggle-container{
+    padding: 5px 0px;
+}
+.text{
+    flex:4;
+    margin-right:10px;
+}
+.text2{
+    flex:4;
+}
+.el-radio-style{
+    flex:1;
+}
+.vc-switch{
+    flex:2;
+}
+.leyenda{
+    flex:1;
+    padding-left: 10px;
+}
+/****
+calcular el area seleccionado
+
+#calculated-area:empty{
+    display:none;
+}*/
+#calculated-area{
+    position: absolute;
+    z-index: 89;
+    background: aliceblue;
+    border: 1px black solid;
+    bottom: 5px;
+    padding: 15px;
+    right: 5px;
+}
+.img-menu{
+    float:right;
+}
+.ocultar p {
+    font-family: var(--vc-font-family);
+    text-align:center;
+    margin:0px !important;
+}

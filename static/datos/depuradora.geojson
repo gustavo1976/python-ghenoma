@@ -1,0 +1,23 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "Name": "EDAR Salamanca", "Description": "Caudal de Entrada: 550.000 h.e"},"geometry": { "type": "Point", "coordinates": [ -5.7139, 40.9731 ] } } ,
+{ "type": "Feature", "properties": { "Name": "EDAR Macotera (Salamanca)", "Description": "Caudal de Entrada: 4.400 h.e"},"geometry": { "type": "Point", "coordinates": [ -5.2927, 40.8417 ] } } ,
+{ "type": "Feature", "properties": { "Name": "EDAR Guijuelo (Salamanca)", "Description": "Caudal de Entrada: 50.000 h.e"},"geometry": { "type": "Point", "coordinates": [ -5.6417, 40.5587 ] } } , 
+{ "type": "Feature", "properties": { "Name": "EDAR Ciudad-Rodrigo (Salamanca)", "Description": "Caudal de Entrada: 30.000 h.e"},"geometry": { "type": "Point", "coordinates": [ -6.5467, 40.6026 ] } } , 
+{ "type": "Feature", "properties": { "Name": "EDAR Valladolid", "Description": "Caudal de Entrada: 751.600 h.e"},"geometry": { "type": "Point", "coordinates": [ -4.7751, 41.6195 ] } } , 
+{ "type": "Feature", "properties": { "Name": "EDAR Medina del Campo ( Valladolid)", "Description": "Caudal de Entrada: 45.200 h.e"},"geometry": { "type": "Point", "coordinates": [ -4.9405, 41.3287 ] } } , 
+{ "type": "Feature", "properties": { "Name": "EDAR El Soto (Valladolid)", "Description": ""},"geometry": { "type": "Point", "coordinates": [ -4.63097, 41.5288 ] } } , 
+{ "type": "Feature", "properties": { "Name": "EDAR Zamora", "Description": "Caudal de Entrada: 96.400 h.e"},"geometry": { "type": "Point", "coordinates": [ -5.7801, 41.50513 ] } } , 
+{ "type": "Feature", "properties": { "Name": "EDAR Toro Acciona (Zamora)", "Description": "Caudal de Entrada: 25.000 h.e"},"geometry": { "type": "Point", "coordinates": [ -5.401, 41.55002 ] } } , 
+{ "type": "Feature", "properties": { "Name": "EDAR Benavente (Zamora)", "Description": "Caudal de Entrada: 32.000 h.e"},"geometry": { "type": "Point", "coordinates": [ -5.6494, 41.9969 ] } } , 
+{ "type": "Feature", "properties": { "Name": "EDAR León", "Description": "Caudal de Entrada: 330.000 h.e"},"geometry": { "type": "Point", "coordinates": [ -5.5639, 42.5596 ] } } , 
+{ "type": "Feature", "properties": { "Name": "EDAR Bierzo Bajo", "Description": "Caudal de Entrada: 132.381 h.e"},"geometry": { "type": "Point", "coordinates": [ -6.7647, 42.5344 ] } } , 
+{ "type": "Feature", "properties": { "Name": "EDAR Onzonilla  (León)", "Description": ""},"geometry": { "type": "Point", "coordinates": [ -5.5462, 42.5298 ] } } , 
+{ "type": "Feature", "properties": { "Name": "EDAR Ávila ", "Description": "Caudal de Entrada: 250.000 h.e"},"geometry": { "type": "Point", "coordinates": [ -4.7082, 40.6838 ] } } , 
+{ "type": "Feature", "properties": { "Name": "EDAR Almazan (Soria)", "Description": "Caudal de Entrada: 22.000 h.e"},"geometry": { "type": "Point", "coordinates": [ -2.4964, 41.5144 ] } } , 
+{ "type": "Feature", "properties": { "Name": "EDAR Soria", "Description": "Caudal de Entrada: 70.600 h.e"},"geometry": { "type": "Point", "coordinates": [ -2.4618, 41.7539 ] } } , 
+{ "type": "Feature", "properties": { "Name": "EDAR Aranda de Duero (Burgos)", "Description": "Caudal de Entrada: 63.400 h.e"},"geometry": { "type": "Point", "coordinates": [ -3.74264, 41.6694 ] } } , 
+{ "type": "Feature", "properties": { "Name": "EDAR Burgos", "Description": "Caudal de Entrada: 750.000 h.e"},"geometry": { "type": "Point", "coordinates": [ -3.7752, 42.3688 ] } }
+]
+}

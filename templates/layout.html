@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <link href="https://api.mapbox.com/mapbox-gl-js/v2.10.0/mapbox-gl.css" rel="stylesheet">
+    <!--<link rel="stylesheet" href="{{ url_for('static',filename='css/style.css') }}">-->
+    <link href="./static/css/style.css" rel="stylesheet">
+    <link href="./static/css/vc-toggle-switch.css" rel="stylesheet" />
+
+    <script src="https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-draw/v1.2.2/mapbox-gl-draw.js"></script>
+    <link rel="stylesheet" href="https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-draw/v1.2.2/mapbox-gl-draw.css" type="text/css">
+
+    <script src="https://api.mapbox.com/mapbox-gl-js/v2.10.0/mapbox-gl.js"></script>
+    <!-- <script src="./js/aeropuertos.js"></script>-->
+    <script src="./static/js/carreteras.js"></script>
+    <script src="./static/js/ferrocaril.js"></script>
+    <script src="./static/js/agua.js"></script>
+    <script src="./static/js/tendidos.js"></script>
+    <script src="./static/js/gaseoductos.js"></script>
+    <!--<script src="./js/eolica.js"></script>
+    <script src="./js/fotovoltaica.js"></script>-->
+    <script src="./static/js/addLayerImage.js"></script>
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+</head>
+<body>
+<a href="/">Inicio</a>
+<a href="{{ url_for('about') }}">Acerca de</a>
+
+    {% block content %}
+
+    {% endblock %}
+</body>
+</html>

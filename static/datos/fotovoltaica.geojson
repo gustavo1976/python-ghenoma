@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "Name": "Parque Fotovoltaico.(PFV)", "Description": " Operador :Solaria Energia y Medioambiente S.A.  ", "PotenciaInstaladaMW": "80"},"geometry": { "type": "Point", "coordinates": [ -5.0141, 41.4721 ] } } , 
+{ "type": "Feature", "properties": { "Name": "Parque Fotovoltaico.(PFV)", "Description": " Operador :Solaria Energia y Medioambiente S.A.  ", "PotenciaInstaladaMW": "30"},"geometry": { "type": "Point", "coordinates": [ -4.9299, 41.3057 ] } } , 
+{ "type": "Feature", "properties": { "Name": "Parque Fotovoltaico.(PFV)", "Description": " Operador :Solaria Energia y Medioambiente S.A.  ", "PotenciaInstaladaMW": "30"},"geometry": { "type": "Point", "coordinates": [ -5.789, 41.1723 ] } } , 
+{ "type": "Feature", "properties": { "Name": "Parque Fotovoltaico.(PFV)", "Description": " Operador :Solaria Energia y Medioambiente S.A.  ", "PotenciaInstaladaMW": "50"},"geometry": { "type": "Point", "coordinates": [ -5.7862, 41.1718 ] } } , 
+{ "type": "Feature", "properties": { "Name": "Parque Fotovoltaico.(PFV)", "Description": " Operador :Solaria Energia y Medioambiente S.A.  ", "PotenciaInstaladaMW": "30"},"geometry": { "type": "Point", "coordinates": [ -5.8912, 41.1631 ] } } , 
+{ "type": "Feature", "properties": { "Name": "Parque Fotovoltaico.(PFV)", "Description": " Operador : Iberdrola Renovables S.A  ", "PotenciaInstaladaMW": "50"},"geometry": { "type": "Point", "coordinates": [ -6.4842, 41.2618 ] } } , 
+{ "type": "Feature", "properties": { "Name": "Parque Fotovoltaico.(PFV)", "Description": " Operador : Iberdrola Renovables S.A  ", "PotenciaInstaladaMW": "50"},"geometry": { "type": "Point", "coordinates": [ -4.1336, 42.1509 ] } } 
+]
+}

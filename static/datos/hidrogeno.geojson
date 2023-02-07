@@ -1,0 +1,6 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "Name": "Planta de producción de H2", "Description": "(Garray, Soria ).Parque empresarial de la ciudad del medio ambiente (PEMA),Primera planta de producción de H2 verde pública en CyL.  Empresa : REDEXIS (con Somacyl). Capacidad de producc de H2:500 Nm3/hor"},"geometry": { "type": "Point", "coordinates": [ -2.494803, 41.827007 ] } }
+]
+}

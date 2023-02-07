@@ -1,0 +1,14 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "Name": "Fertiberia (Industria)", "Description": "(Villalar de los Comuneros, Valladolid) Fábrica de fertilizantes con una capacidad de producción anual de 25.000 toneladas de fertilizantes.", "Consumo": 1000},"geometry": { "type": "Point", "coordinates": [ -5.158026, 41.508147 ] } } ,
+{ "type": "Feature", "properties": { "Name": "Renault (Industria)", "Description": "( Renault y Palencia ) Fábricas de Renault. Acuerdo con Iberdrola para abastecer H2.", "Consumo":  0},"geometry": { "type": "Point", "coordinates": [ -4.72114, 41.60198 ] } } ,
+{ "type": "Feature", "properties": { "Name": "Adisseo (Industria)", "Description": "(Burgos) Fábrica de Fertilizantes. Consumo de H2 de origen renovable: 2.000 toneladas/año.", "Consumo": 2000},"geometry": { "type": "Point", "coordinates": [ -3.738, 42.37354 ] } } , 
+{ "type": "Feature", "properties": { "Name": "Fertifluid (Industria)", "Description": "(Villalar de los Comuneros, Valladolid) Fábrica de fertilizantes con una capacidad de producción anual de 70.000 toneladas de fertilizantes.", "Consumo": 3200},"geometry": { "type": "Point", "coordinates": [ -5.15615, 41.51756 ] } } , 
+{ "type": "Feature", "properties": { "Name": "Servimed Almazan (Industria)", "Description": "(Soria) Fábrica de Fertilizantes con una capacidad de producción de 25.000 toneladas/año.", "Consumo": 1200},"geometry": { "type": "Point", "coordinates": [ -2.51824, 41.48262 ] } } , 
+{ "type": "Feature", "properties": { "Name": "MIRAT (Industria)", "Description": "(Salamanca) Fábrica de Fertilizantes.", "Consumo": 3100},"geometry": { "type": "Point", "coordinates": [ -5.655, 40.9582 ] } } , 
+{ "type": "Feature", "properties": { "Name": "Latem Aluminio (Industria)", "Description": "(León). Producción de aleaciones de aluminio secundario en lingotes. Capacidad de producción: 45.000 toneladas anuales."},"geometry": { "type": "Point", "coordinates": [ -5.7476, 42.5455 ] } } , 
+{ "type": "Feature", "properties": { "Name": "Acerinox Filial: Roldán S.A (Industria)", "Description": "(El Bierzo, Ponferrada) Fabricación de productos de acero inoxidable."},"geometry": { "type": "Point", "coordinates": [ -6.5786, 42.5593 ] } } , 
+{ "type": "Feature", "properties": { "Name": "Carburos Metálicos (Industria)", "Description": "( Soria ) Planta de recuperaciñon, depuración y reutilización de C02"},"geometry": { "type": "Point", "coordinates": [ -4.70537, 41.61965 ] } }
+]
+}
